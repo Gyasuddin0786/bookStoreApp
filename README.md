@@ -15,9 +15,9 @@ It allows users to explore, search, and buy books with a seamless experience.
 Frontend | Backend | Database
 React.js | Express.js | MongoDB
 
-git clone https://github.com/your-username/BookStoreApp.git
-cd BookStoreApp
+git clone https://github.com/Gyasuddin0786/BookStoreApp.git
 
+cd BookStoreApp
 cd client
 npm install
 npm start
